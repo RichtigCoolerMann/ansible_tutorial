@@ -1,4 +1,12 @@
-user@192.168.2.116
-user@192.168.2.137
-user@192.168.2.188
+[web_servers]
+user@192.168.2.116 
+user@192.168.2.216 
+
+[db_servers]
+user@192.168.2.137 
+
+[file_servers]
+user@192.168.2.188 
+
+[python_server]
 user@192.168.2.216
